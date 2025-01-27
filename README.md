@@ -95,9 +95,9 @@ In this project, we use **ResNet50**, a powerful pre-trained convolutional neura
 2. **Progressive Adaptation**: The model adapts progressively to new classes, making it scalable and able to learn from new data without forgetting previous classes.
 3. **Robust to Similarity**: By using **cosine similarity**, the model effectively measures the closeness of feature vectors, ensuring that the most similar prototype is selected for classification.
 
-### Team
-# Mohd Nasar Siddiqui
-# Kartik
-# Abhishek Kumar
-# Param Soni
+## Team
+ Mohd Nasar Siddiqui
+ Kartik
+ Abhishek Kumar
+ Param Soni
 # Samrat Patil
