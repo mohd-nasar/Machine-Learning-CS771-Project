@@ -96,8 +96,8 @@ In this project, we use **ResNet50**, a powerful pre-trained convolutional neura
 3. **Robust to Similarity**: By using **cosine similarity**, the model effectively measures the closeness of feature vectors, ensuring that the most similar prototype is selected for classification.
 
 ## Team
- Mohd Nasar Siddiqui
- Kartik
- Abhishek Kumar
- Param Soni
-# Samrat Patil
+1. Mohd Nasar Siddiqui
+2. Kartik
+3. Abhishek Kumar
+4. Param Soni
+5. Samrat Patil
