@@ -1,5 +1,5 @@
 # Machine Learning Project
-This repository contains the implementation of a machine learning project for the CS771 course at IIT Kanpur, under the guidance of Professor Piyush Rai (Aug 2024 - Dec 2024). The project focuses on classifying emoticons using various machine learning models.
+This repository contains the implementation of a machine learning project for the CS771 course at IIT Kanpur, under the guidance of Professor Piyush Rai (Aug 2024 - Dec 2024).
 
 ## MiniProject1 - Emoticon Classifier
 
@@ -94,3 +94,10 @@ In this project, we use **ResNet50**, a powerful pre-trained convolutional neura
 1. **Efficient Learning with Limited Data**: By using **ResNet50** pre-trained on **ImageNet**, the model can generalize well with limited labeled data.
 2. **Progressive Adaptation**: The model adapts progressively to new classes, making it scalable and able to learn from new data without forgetting previous classes.
 3. **Robust to Similarity**: By using **cosine similarity**, the model effectively measures the closeness of feature vectors, ensuring that the most similar prototype is selected for classification.
+
+### Team
+# Mohd Nasar Siddiqui
+# Kartik
+# Abhishek Kumar
+# Param Soni
+# Samrat Patil
